@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522669630 source:e:\prog\personne1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+
+1522668892 e:\prog\personne1\main.h
+
+1522668959 e:\prog\personne1\personne.h
+
